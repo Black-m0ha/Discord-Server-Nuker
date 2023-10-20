@@ -1,8 +1,8 @@
 {
-  "token" : "",
-  "prefix": "",
-  "dmsg" : "",
-  "newguildname": "",
-  "spammsga" : "",
-  "spammsgb" : ""
+  "token" : "MTE2NDk1MDMyNDU4MzM0NjI3Ng.GItz-L.RO8qz68nxNxERrDab9ol5IIJT5-KkcGGH4Bpi4",
+  "prefix": "!",
+  "dmsg" : "test",
+  "newguildname": "test",
+  "spammsga" : "test @here @everyone",
+  "spammsgb" : "test @here"
 }
